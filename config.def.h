@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:size=13:antialias=true:autohint=true";
+static char *font = "Liberation Mono:size=14:antialias=true:autohint=true";
 /* Spare fonts */
-static char *font2[] = {"Font Awesome 5 Free Solid:size=8"};
+static char *font2[] = {"Font Awesome 5 Free Solid:size=10"};
 static int borderpx = 2;
 
 /*

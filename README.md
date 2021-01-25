@@ -8,7 +8,6 @@ This is my version of *ST*
 - desktopentry
 - w3m
 - vertical center
-- clipboard
 - scrollback
 
 ## Keybindings

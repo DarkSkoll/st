@@ -5,7 +5,6 @@ This is my version of *ST*
 
 - Xresources
 - font2
-- desktopentry
 - w3m
 - vertical center
 - scrollback
